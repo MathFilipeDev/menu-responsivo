@@ -1,4 +1,4 @@
-# 🧭 menu-responsivo
+# 🧭 Menu Responsivo
 
 Este é um projeto de um **menu de navegação responsivo** desenvolvido em HTML e CSS. O menu se adapta para diferentes tamanhos de tela, mostrando um menu tradicional para desktop e um menu com ícone para dispositivos móveis.
 
